@@ -24,13 +24,13 @@ repository               : "Alfredkkk/Alfredkkk.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Keyang Zhong"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD student in Industrial Engineering at Georgia Tech ISyE"
+  location         : "Atlanta, GA"
+  employer         : "Georgia Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kyzhong02@gatech.edu" 
 
   # Academic websites
   academia         : # URL
