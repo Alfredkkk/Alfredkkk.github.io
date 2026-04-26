@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Keyang Zhong（钟柯洋）, an incoming PhD student in Industrial Engineering at Georgia Tech ISyE. I'm fortunate to be advised by Prof. Chelsea White, and I'm also lucky to work with Prof. Sheng Liu.
+Hi, I'm Keyang Zhong（钟柯洋）, an incoming PhD student in Industrial Engineering at Georgia Tech ISyE. I'm fortunate to be advised by [Prof. Chelsea White](https://www.isye.gatech.edu/users/chelsea-white), and I'm also lucky to work with [Prof. Sheng Liu](https://sites.google.com/site/thushengliu/home?authuser=0).
 
 Research Interest
 ======
